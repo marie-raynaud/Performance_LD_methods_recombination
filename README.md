@@ -1,4 +1,4 @@
-# Performance and limitations of linkage-disequilibrium-based methods for inferring thegenomic landscape of recombination and detecting hotspots: a simulation study
+# Performance and limitations of linkage-disequilibrium-based methods for inferring the genomic landscape of recombination and detecting hotspots: a simulation study
 
 
 
