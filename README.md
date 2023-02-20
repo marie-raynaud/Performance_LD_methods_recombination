@@ -1,5 +1,6 @@
 # Performance and limitations of linkage-disequilibrium-based methods for inferring the genomic landscape of recombination and detecting hotspots: a simulation study
 
+[![DOI](https://zenodo.org/badge/589938942.svg)](https://zenodo.org/badge/latestdoi/589938942)
 
 
 The following scripts were created to assess the performance of the wide-used LD-based method to infer population recombination rates LDhelmet in a simulation study. 
